@@ -1314,38 +1314,6 @@ body {
   border-color: #cbd5e1;
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 .footer-section{
     background:#030B1D;
     color:#fff;
@@ -1482,6 +1450,5 @@ body {
 @media screen and (max-width: 425px){
     .sticky{
        display: none;
-
     }
 }
